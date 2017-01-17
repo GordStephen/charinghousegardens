@@ -57,17 +57,17 @@ var suite=new fadeSlideShow({
 <li>window open-able for lovely fresh air.</li>
 <li>guests often compliment on the comfortable bed and hotel quality linens.</li>
 </ul>
-<p>Pricing for the West Room for one person:</p>
-<ul>
-<li>$110 single night, $100 per night for two nights or more  (taxes and Breakfast Basket included).</li>
-<li>weekly $600, monthly $1800  (taxes included). No Breakfast Baskets are included in weekly or monthly pricing.</li>
-</ul>
-<p>Pricing for the West Room for two people:</p>
-<ul>
-<li>$120 single night, $110 per night for two nights or more  (taxes and Breakfast Baskets included).</li>
-<li>weekly $650, monthly $1900  (taxes included). No Breakfast Baskets are included in weekly or monthly pricing.</li>
-</ul>
-<p>&nbsp;</p>
+
+Pricing for the West Room for one person:
+
+ - $125 single night, $115 per night for two nights or more  (taxes and Breakfast Basket included).
+ - weekly $700, (taxes included). No Breakfast Baskets are included in weekly pricing.
+
+Pricing for the West Room for two people:
+
+ - $135 single night, $125 per night for two nights or more  (taxes and Breakfast Baskets included).
+ - weekly $800, (taxes included). No Breakfast Baskets are included in weekly pricing.
+
 <h2><strong><span style="text-decoration: underline;">The Suite</span></strong></h2>
 <div id="suitegallery"></div>
 <p><strong><span style="text-decoration: underline;">The Suite &#8211; Bedroom</span>:</strong></p>
@@ -91,15 +91,16 @@ var suite=new fadeSlideShow({
 <li>peruse a collection of very old books, or some of the many Art books.</li>
 <li>games and puzzles also available in room.</li>
 </ul>
-<p>Pricing for the Suite for one person:</p>
-<ul>
-<li>$135 single night, $125 per night for two nights or more (taxes and Breakfast Basket included).</li>
-<li>weekly $750, monthly $2200 (taxes included). No Breakfast Baskets are included in weekly or monthly pricing.</li>
-</ul>
-<p>Pricing for the Suite for two people:</p>
-<ul>
-<li>$145 single night, $135 per night for two nights or more  (taxes and Breakfast Baskets included).</li>
-<li>weekly $800, monthly $2300  (taxes included). No Breakfast Baskets are included in weekly or monthly pricing.</li>
-<li>each additional person is $10 per night, $50 per week, $100 per month.</li>
-</ul>
-<p>Please <a title="Email Olly" href="mailto:info@charinghousegardens.ca" target="_blank">email</a>  or phone 1-613-226-8112 for more information.</p>
+
+Pricing for the Suite for one person:
+
+ - $150 single night, $140 per night for two nights or more (taxes and Breakfast Basket included).
+ - weekly $825, (taxes included). No Breakfast Baskets are included in weekly pricing.
+
+Pricing for the Suite for two people:
+
+ - $160 single night, $150 per night for two nights or more  (taxes and Breakfast Baskets included).
+ - weekly $850, (taxes included). No Breakfast Baskets are included in weekly pricing.
+ - each additional person is $10 per night, $50 per week.
+
+Please <a title="Email Olly" href="mailto:info@charinghousegardens.ca" target="_blank">email</a> or phone 1-613-226-8112 for more information.
