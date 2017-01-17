@@ -1,9 +1,8 @@
 ---
 layout: narrow
 sidebarimagepath: /images/calendar_side.png
+title: Calendar of Events
 ---
-
-# Calendar of Events
 
 <span style="text-decoration: underline;">Wednesday May 6, 2015:</span> Charing House Gardens presentation &#8217;Dancing Dahlias&#8217; at the Carleton Place Horticultural Society meeting in Carleton Place, Ontario. The meeting is at St. Andrew&#8217;s Presbyterian Church at 7 pm. A limited number of dahlia tubers will be for sale at the meeting.
 

@@ -1,5 +1,6 @@
 ---
 layout: wide
+title: Accommodations
 ---
 
 <script type="text/javascript">
@@ -37,8 +38,6 @@ var suite=new fadeSlideShow({
 	togglerid: ""
 })
 </script>
-
-# Accommodations
 
 <h2><span style="text-decoration: underline;"><strong>The West Room</strong></span></h2>
 <div id="westroomgallery"></div>

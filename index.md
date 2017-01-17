@@ -1,8 +1,7 @@
 ---
 layout: wide
+title: Welcome to Charing House Gardens Bed & Breakfast
 ---
-
-# Welcome to Charing House Gardens
 
 Charing House has two second floor rooms ideal for nightly, weekly, or monthly accommodation in a large executive home. Located in a quiet suburb of west Ottawa, it is a fifteen minute drive to downtown. Access is easy from Highways 416 and 417. Parking is available at no charge.
 

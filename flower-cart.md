@@ -1,9 +1,8 @@
 ---
 layout: narrow
 sidebarimagepath: /images/flowercart_side.png
+title: Flower Cart
 ---
-
-# Flower Cart
 
 Mixed flower bouquets, including dahlias, are available from the self serve Flower Cart several days a week. Flowers are fresh picked each morning, collected into attractive, generous bouquets, and offered at a discount price. All bouquets are $10.
 

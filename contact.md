@@ -1,9 +1,8 @@
 ---
 layout: narrow
 sidebarimagepath: /images/contact_side.png
+title: Contact
 ---
-
-# Contact
 
 Phone: 1-613-226-8112
 
